@@ -20,3 +20,9 @@ body {
     box-sizing: border-box;
     font-family: 'Quicksand', sans-serif;
 }
+
+.initial-screen {
+    width: 100%;
+    min-width: 280px;
+    height: 100vh;
+}
